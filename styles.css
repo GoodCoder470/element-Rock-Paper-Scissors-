@@ -1,0 +1,60 @@
+button{border: #000000;
+    color: rgb(d4,f1,f9,);
+    padding: 32px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 5px 5px;
+    cursor: pointer;
+    background-color: rgb(12,41,129);
+    border-radius: 15px;
+}
+button2{border: #000000;
+    color: rgb(d4,f1,f9,);
+    padding: 32px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 5px 5px;
+    cursor: pointer;
+    background-color: rgb(15, 91, 7);
+    border-radius: 15px;}
+    
+    button3{border: #000000;
+        color: rgb(d4,f1,f9,);
+        padding: 32px 50px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 20px;
+        margin: 5px 5px;
+        cursor: pointer;
+        background-color: rgb(91, 7, 7);
+        border-radius: 15px;}
+
+        button4{border: #000000;
+            color: rgb(d4,f1,f9,);
+            padding: 32px 50px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 20px;
+            margin: 5px 5px;
+            cursor: pointer;
+            background-color: rgb(175, 187, 174);
+            border-radius: 15px;}
+
+        
+            body {
+                background-color: gray ;
+            
+            
+        }
+        /* filepath: /C:/Users/Wynte/.vscode/cli/styles.css */
+.left-align {
+    text-align: left;
+}
+          
+           
